@@ -1,0 +1,155 @@
+*{
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a{
+    color: white;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.first{
+    border: solid 3px black;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    
+}
+
+.second{
+    border: solid 3px #EA047E;
+    height: 250px;
+    background-color:#EA047E;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.third{
+    border: solid 3px #FF6D28;
+    height: 250px;
+    background-color:#FF6D28;
+    margin-top: 8px;
+    color: white;
+}
+
+.forth{
+    border: solid 3px #FCE700;
+    height: 250px;
+    background-color:#FCE700;
+    margin-top: 8px;
+    color: white;
+}
+
+.fifth{
+    border: solid 3px #db1f45;
+    height: 250px;
+    background-color:#db1f45;   
+    margin-top: 8px;
+    color: white;
+}
+
+
+
+/* Lab Manual  */
+
+h2{
+    color: black;
+}
+
+.one{
+    border: solid 3px #EA047E;
+    height: 250px;
+    background-color:#EA047E;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.two{
+    border: solid 3px #FF731D;
+    height: 250px;
+    background-color:#FF731D;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.three{
+    border: solid 3px #D800A6;
+    height: 250px;
+    background-color:#D800A6;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.four{
+    border: solid 3px #8758FF;
+    height: 250px;
+    background-color:#8758FF;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.five{
+    border: solid 3px #6FEDD6;
+    height: 250px;
+    background-color:#6FEDD6;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.six{
+    border: solid 3px #FF9F29;
+    height: 250px;
+    background-color:#FF9F29;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.seven{
+    border: solid 3px #16003B;
+    height: 250px;
+    background-color:#16003B;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.eight{
+    border: solid 3px #7D1E6A;
+    height: 250px;
+    background-color:#7D1E6A;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.nine{
+    border: solid 3px #BB6464;
+    height: 250px;
+    background-color:#BB6464;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+.ten{
+    border: solid 3px #A2B5BB;
+    height: 250px;
+    background-color:#A2B5BB;
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+}
+
+h1{
+    font-family: 'Kalam', cursive;
+}
