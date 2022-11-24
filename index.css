@@ -22,9 +22,9 @@ body{
 
 
 .second{
-    border: solid 3px #4C0033;
+    border: solid 3px #694E4E;
     height: 250px;
-    background-color:#4C0033;
+    background-color:#694E4E;
     text-align: center;
     margin-top: 18px;
     color: white;
@@ -32,25 +32,25 @@ body{
 }
 
 .third{
-    border: solid 3px #790252;
+    border: solid 3px #886F6F;
     height: 250px;
-    background-color:#790252;
+    background-color:#886F6F;
     margin-top: 8px;
     color: white;
 }
 
 .forth{
-    border: solid 3px #AF0171;
+    border: solid 3px #C1A3A3;
     height: 250px;
-    background-color:#AF0171;
+    background-color:#C1A3A3;
     margin-top: 8px;
     color: white;
 }
 
 .fifth{
-    border: solid 3px #E80F88;
+    border: solid 3px #F3C5C5;
     height: 250px;
-    background-color:#E80F88;   
+    background-color:#F3C5C5;   
     margin-top: 8px;
     color: white;
 }
