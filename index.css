@@ -19,35 +19,38 @@ body{
     
 }
 
+
+
 .second{
-    border: solid 3px #EA047E;
+    border: solid 3px #4C0033;
     height: 250px;
-    background-color:#EA047E;
+    background-color:#4C0033;
     text-align: center;
     margin-top: 18px;
     color: white;
+    
 }
 
 .third{
-    border: solid 3px #FF6D28;
+    border: solid 3px #790252;
     height: 250px;
-    background-color:#FF6D28;
+    background-color:#790252;
     margin-top: 8px;
     color: white;
 }
 
 .forth{
-    border: solid 3px #FCE700;
+    border: solid 3px #AF0171;
     height: 250px;
-    background-color:#FCE700;
+    background-color:#AF0171;
     margin-top: 8px;
     color: white;
 }
 
 .fifth{
-    border: solid 3px #db1f45;
+    border: solid 3px #E80F88;
     height: 250px;
-    background-color:#db1f45;   
+    background-color:#E80F88;   
     margin-top: 8px;
     color: white;
 }
@@ -61,90 +64,90 @@ h2{
 }
 
 .one{
-    border: solid 3px #EA047E;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#EA047E;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .two{
-    border: solid 3px #FF731D;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#FF731D;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .three{
-    border: solid 3px #D800A6;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#D800A6;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .four{
-    border: solid 3px #8758FF;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#8758FF;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .five{
-    border: solid 3px #6FEDD6;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#6FEDD6;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .six{
-    border: solid 3px #FF9F29;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#FF9F29;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .seven{
-    border: solid 3px #16003B;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#16003B;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .eight{
-    border: solid 3px #7D1E6A;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#7D1E6A;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .nine{
-    border: solid 3px #BB6464;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#BB6464;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
 }
 
 .ten{
-    border: solid 3px #A2B5BB;
+    border: solid 3px #434242;
     height: 250px;
-    background-color:#A2B5BB;
+    background-color:#434242;
     text-align: center;
     margin-top: 18px;
     color: white;
